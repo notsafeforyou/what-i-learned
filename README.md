@@ -15,3 +15,7 @@ That small projects like this are a good way to start learning cybersecurity and
 
 conclussion Security awareness.
 END
+
+11/04/2026
+
+about to finish my python certificate yay
